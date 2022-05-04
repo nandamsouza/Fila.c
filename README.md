@@ -1,3 +1,4 @@
+
 <h1>Fila.c</h1>
 <h1 align="center"> Controle de Fila de espera em atendimento com senha.</h1>
 <p align="center">Projeto em linguagem c, baseado nos meus estudos da faculdade. 👩‍💻</p>
@@ -7,7 +8,7 @@
 <ol>
     <li>Gerar nova senha:</li>
      <ul>
-        <li> Esta opção consiste em gerar uma senha representada por um número aleatório entre 100 e 999 que ainda não esteja em uso em coloca-lo no final da fila de espera.</li>
+        <li> Esta opção consiste em gerar uma senha representada por um número aleatório entre 100 e 999 que ainda não esteja em uso e coloca-lo no final da fila de espera.</li>
      </ul>
      <br>
      <li>Mostrar fila de espera:</li>
@@ -28,7 +29,7 @@
 <br>
 <h2 align="center">Demonstração do projeto 🔎<h2>
  <br>
- <img src="./img/animação.gif" aling="center">
+ <img src="https://github.com/nandamsouza/fila.c/blob/main/img/Anima%C3%A7%C3%A3o.gif" aling="center">
  <br>
    <p>⚙️Ferramentas utilizadas no projeto:</p>
    <ul>
