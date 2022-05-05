@@ -29,7 +29,7 @@
 <br>
 <h2 align="center">Demonstração do projeto 🔎<h2>
  <br>
- <img src="https://github.com/nandamsouza/fila.c/blob/main/img/Anima%C3%A7%C3%A3o.gif" aling="center">
+ <div><img src="https://github.com/nandamsouza/fila.c/blob/main/img/Anima%C3%A7%C3%A3o.gif"></div>
  <br>
    <p>⚙️Ferramentas utilizadas no projeto:</p>
    <ul>
